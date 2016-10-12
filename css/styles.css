@@ -1,0 +1,32 @@
+.contact {
+  font-size: 10px;
+  line-height: 12px;
+  font-family: monospace;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  margin-left: 100px;
+}
+.phone {
+  color: gold;
+  text-decoration: underline;
+}
+.obj {
+  font-size: 12px;
+  line-height: 15px;
+  font-family: fantasy;
+  margin-left: 100px;
+}
+.exp {
+  font-size: 15px;
+  line-height: 17px;
+  margin-left: 100px;
+}
+.ed {
+  font-size: 15px;
+  line-height: 17px;
+  margin-left: 100px;
+}
